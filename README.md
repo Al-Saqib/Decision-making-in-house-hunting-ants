@@ -34,7 +34,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 ```
 
-3. Extract the contents of `Relevant Codes and Figures.zip` to the project directory.
+3. Extract the contents of `Robinson Final Code.zip` to the project directory.
 
 4. Run the Python scripts:
 
