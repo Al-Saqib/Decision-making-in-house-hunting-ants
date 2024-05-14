@@ -87,4 +87,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact
 
 For questions or inquiries, please contact me at saqib.majumder01@gmail.com.
-```
