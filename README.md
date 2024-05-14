@@ -52,7 +52,6 @@ cd your-repo-name
 
 - `ExampleUsingRobinsonCode4Nests_func.py`: Main script to run the simulation with geographical variation and noise in nest qualities and thresholds.
 - `RobinsonCode.py`: Contains functions and classes used in the simulation. Uncomment relevant lines to include quorum threshold in the model.
-- `IAM 1st Project (Al Saqib).pdf`: Detailed project report outlining the methodology, results, and conclusions.
 
 ## Features
 
